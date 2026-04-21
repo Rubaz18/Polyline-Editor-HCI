@@ -1,17 +1,17 @@
 # HCI Polyline Editor + Fitts' Law Experiment
 
-## 📌 Overview
+## Overview
 
 This project is an interactive Human-Computer Interaction (HCI) tool built using Python and Pygame. It combines:
 
-* ✏️ Polyline Editor (drawing and editing)
-* 🎯 Fitts’ Law Experiment (measuring user performance)
+* Polyline Editor (drawing and editing)
+* Fitts’ Law Experiment (measuring user performance)
 
 The system demonstrates how users interact with graphical interfaces and evaluates performance based on time and distance.
 
 ---
 
-## 🎮 Features
+## Features
 
 ### Edit Mode
 
@@ -31,7 +31,7 @@ The system demonstrates how users interact with graphical interfaces and evaluat
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
@@ -40,13 +40,13 @@ python main.py
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 (Add images in /screenshots folder)
 
 ---
 
-## 🧠 HCI Concepts Used
+## HCI Concepts Used
 
 * Direct Manipulation
 * Feedback
@@ -55,7 +55,7 @@ python main.py
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 See `/docs` folder for:
 
@@ -65,6 +65,6 @@ See `/docs` folder for:
 
 ---
 
-## 📜 License
+## License
 
 MIT License
