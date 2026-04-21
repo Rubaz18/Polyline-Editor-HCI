@@ -1,6 +1,6 @@
 # Design Document
 
-## 🎯 Goal
+##  Goal
 
 The goal of this system is to provide an interactive environment for:
 
@@ -10,7 +10,7 @@ The goal of this system is to provide an interactive environment for:
 
 ---
 
-## 🧩 System Modes
+##  System Modes
 
 ### 1. Edit Mode
 
@@ -29,7 +29,7 @@ Users click targets and the system measures:
 
 ---
 
-## 🧠 HCI Principles Applied
+##  HCI Principles Applied
 
 ### Affordance
 
@@ -51,7 +51,7 @@ Users directly interact with objects (points).
 
 ---
 
-## 🎨 UI Design
+##  UI Design
 
 * Minimal interface
 * Clear instructions on screen
